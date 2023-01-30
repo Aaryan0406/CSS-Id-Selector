@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+   #1{
+           text-align:center;
+           background-color: GREEN;
+          }
+</style>
+</head>
+<body>
+  <p id="1">HI</p>
+  <p>I AM FINE</p>
+</body>
+</html>
